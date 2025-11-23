@@ -1,5 +1,5 @@
 def add(a, b):
-    return a + b + 1  # Modified intentionally for conflict
+    return a + b  # Keep correct version
 
 def subtract(a, b):
     return a - b
